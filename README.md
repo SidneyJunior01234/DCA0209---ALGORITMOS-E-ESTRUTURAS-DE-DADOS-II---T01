@@ -9,4 +9,4 @@ A terceira semana do curso, tem como objetivo a utilização do ChatGPT na resol
 Utilizando conceitos sobre Linkedlist e Stack estudados na disciplina anterior, foi feito o uso do ChatGPT para gerar 
 um código e o mesmo deveria passar em testes pré-definidos. 
 
-[Link do Collab](https://colab.research.google.com/drive/1kSgrcpTGg4JbzA0VwwNlE8ZsZwPHq91R)
+[Link para o Notebook](https://colab.research.google.com/drive/1kSgrcpTGg4JbzA0VwwNlE8ZsZwPHq91R)
