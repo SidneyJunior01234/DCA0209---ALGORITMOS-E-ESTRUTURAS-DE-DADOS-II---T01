@@ -9,7 +9,7 @@ A terceira semana do curso, tem como objetivo a utilização do ChatGPT na resol
 Utilizando conceitos sobre Linkedlist e Stack estudados na disciplina anterior, foi feito o uso do ChatGPT para gerar 
 um código e o mesmo deveria passar em testes pré-definidos. 
 
-[Link para o Notebook](https://colab.research.google.com/drive/1kSgrcpTGg4JbzA0VwwNlE8ZsZwPHq91R)
+[Link para o Notebook](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/cadernos/Semana01/Week03.ipynb)
 
 ## Semana 04:
 O objetivo da quarta semana é a revisão dos conhecimentos em relação a recursividade, árvores binárias e tópicos relacionados.
