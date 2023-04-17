@@ -14,3 +14,5 @@ um código e o mesmo deveria passar em testes pré-definidos.
 ## Semana 04:
 O objetivo da quarta semana é a revisão dos conhecimentos em relação a recursividade, árvores binárias e tópicos relacionados.
 Ainda com a ajuda do ChatGPT, foi realizado um exercício onde o objetivo era gerar o código para determinadas funções, onde elas deveriam passar em testes.
+
+[Link para o Notebook](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/cadernos/Semana04/week04.ipynb)
