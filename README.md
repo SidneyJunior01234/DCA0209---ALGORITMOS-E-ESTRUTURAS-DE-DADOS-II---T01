@@ -3,6 +3,8 @@
 Esse repositório tem como finalidade a disponibilidade dos resultados obtidos semanalmente durante a disciplina. 
 
 ## Semana 01:
+A primeira semana é dedicada aos estudos das ferramentas que iremos utilizar durante o curso. Utilizando o material disponibilizado pelo Dataquest,
+para o reforço do conhecimento em Git, Github e Introdução a Linguagem Python.
 ## Semana 02:
 ## Semana 03:
 A terceira semana do curso, tem como objetivo a utilização do ChatGPT na resolução de problemas.
