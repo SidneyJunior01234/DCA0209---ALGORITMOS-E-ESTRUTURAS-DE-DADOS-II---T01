@@ -28,3 +28,15 @@ O objetivo da quarta semana é a revisão dos conhecimentos em relação a recur
 Ainda com a ajuda do ChatGPT, foi realizado um exercício onde o objetivo era gerar o código para determinadas funções, onde elas deveriam passar em testes.
 
 [Link para o Notebook](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/cadernos/Semana04/week04.ipynb)
+
+## Semana 05:
+Nessa semana, o objetivo foi dedicar-se aos estudos sobre Complexiadae dos Algoritmos. 
+
+Estudos de como calcular a complexiade dos algoritmos de casos mais comuns: Linear, Quadrática e constante.
+
+Notação: Notação Big O, Notação Big Ω e Notação Big Θ.
+
+## Semana 06:
+Com os conhecimentos adquiridos com a semana de estudos (Semana 05), nessa semana os conhecimentos foram aprofundados em Complexidade de Tempo Logarítmica que é a parte faltante do curso de introdução aos algoritmos.
+
+[Certificado: Introduction to Algorithms](https://app.dataquest.io/view_cert/O727KEY6Z7GOPGLZ5HRV)
