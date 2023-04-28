@@ -7,6 +7,7 @@ A primeira semana é dedicada aos estudos das ferramentas que iremos utilizar du
 para o reforço do conhecimento em Git e Introdução a Linguagem Python.
 
 [Certificado: Introduction to Git and Version Control](https://app.dataquest.io/view_cert/9HG7ELW68XH9VLSLATPP)
+
 [Certificado: Introduction to Python for Data Engineering](https://app.dataquest.io/view_cert/XJN0SN6R69DANO638UV3)
 
 ## Semana 02:
