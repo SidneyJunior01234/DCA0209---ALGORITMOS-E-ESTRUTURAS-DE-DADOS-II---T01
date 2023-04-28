@@ -4,8 +4,17 @@ Esse repositório tem como finalidade a disponibilidade dos resultados obtidos s
 
 ## Semana 01:
 A primeira semana é dedicada aos estudos das ferramentas que iremos utilizar durante o curso. Utilizando o material disponibilizado pelo Dataquest,
-para o reforço do conhecimento em Git, Github e Introdução a Linguagem Python.
+para o reforço do conhecimento em Git e Introdução a Linguagem Python.
+
+[Certificado: Introduction to Git and Version Control](https://app.dataquest.io/view_cert/9HG7ELW68XH9VLSLATPP)
+[Certificado: Introduction to Python for Data Engineering](https://app.dataquest.io/view_cert/XJN0SN6R69DANO638UV3)
+
 ## Semana 02:
+A segunda semana do curso foi dedicada em aperfeiçoar os conhecimentos na linguagem Python, onde o objetivo foi conhecer melhor os Dicionários, as Funções e 
+Orientação a Objetos.
+
+[Certificado: Dictionaries and Functions in Python](https://app.dataquest.io/view_cert/YAT7DPFR1EG8K2QETDEE)
+
 ## Semana 03:
 A terceira semana do curso, tem como objetivo a utilização do ChatGPT na resolução de problemas.
 Utilizando conceitos sobre Linkedlist e Stack estudados na disciplina anterior, foi feito o uso do ChatGPT para gerar 
