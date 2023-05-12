@@ -47,3 +47,4 @@ A semana 07 dá início a segunda unidade do curso e com ela tivemos a introduç
 ## Semana 08:
 Para essa semana, foi colocado em prática os conhecimentos adquiridos na Semana 07.
 
+[Link do Notebook](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/cadernos/Semana08/Week07%2008.ipynb)
