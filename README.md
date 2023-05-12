@@ -40,3 +40,10 @@ Notação: Notação Big O, Notação Big Ω e Notação Big Θ.
 Com os conhecimentos adquiridos com a semana de estudos (Semana 05), nessa semana os conhecimentos foram aprofundados em Complexidade de Tempo Logarítmica que é a parte faltante do curso de introdução aos algoritmos.
 
 [Certificado: Introduction to Algorithms](https://app.dataquest.io/view_cert/O727KEY6Z7GOPGLZ5HRV)
+
+## Semana 07:
+A semana 07 dá início a segunda unidade do curso e com ela tivemos a introdução aos grafos onde vimos: definições básicas, grafos extendidos, densidade, esparsidade, sub-rede e representação de redes.
+
+## Semana 08:
+Para essa semana, foi colocado em prática os conhecimentos adquiridos na Semana 07.
+
