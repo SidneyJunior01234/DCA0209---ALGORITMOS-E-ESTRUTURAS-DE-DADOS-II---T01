@@ -1,6 +1,7 @@
 # **Projeto 02 - Air traffic Brazil analysis**
 
 ## **Descrição:**
+O projeto tem como objetivo a análise do tráfego aério brasileiro e seus aeroportos, onde os relacionados à análise de redes devem ser aplicados.
 
 ## **Estudo sobre assortatividade:**
 
