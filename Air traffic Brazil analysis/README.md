@@ -14,6 +14,25 @@ E por se aproximar de 1, é assortativa e foi gerado um gráfico para visualizar
 ![Air traffic Brazil analysis/imagens/plot01.png](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/plot01.png)
 
 ## **Análise bivariada:**
+Essa análise é realizada utilizando a correlação com o grau dos nós em relação a média do grau de seus vizinhos.
+
+**Brasil**
+`Grau de assortatividade = -0.2017097172979742`
+
+**Região Norte**
+`Grau de assortatividade = -0.22193985877089423`
+
+**Região Nordeste**
+`Grau de assortatividade = -0.33375735918340366`
+
+**Região Sudeste**
+`Grau de assortatividade = -0.3687746079424212`
+
+**Região Sul**
+`Grau de assortatividade = -0.40181381306857755`
+
+**Região Centro-Oeste**
+`Grau de assortatividade = -0.3542839902086467`
 
 ## **Componentes conectados:**
 
