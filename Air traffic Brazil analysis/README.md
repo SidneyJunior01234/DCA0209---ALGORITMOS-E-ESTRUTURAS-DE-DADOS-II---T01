@@ -17,34 +17,72 @@ E por se aproximar de 1, é assortativa e foi gerado um gráfico para visualizar
 Essa análise é realizada utilizando a correlação com o grau dos nós em relação a média do grau de seus vizinhos.
 
 **Brasil**
+
 `Grau de assortatividade = -0.2017097172979742`
+
 ![Brasil](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/plotbrasil.png)
 
 **Região Norte**
+
 `Grau de assortatividade = -0.22193985877089423`
+
 ![Norte](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/plotnorte.png)
 
 **Região Nordeste**
+
 `Grau de assortatividade = -0.33375735918340366`
+
 ![Nordeste](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/plotnordeste.png)
 
 **Região Sudeste**
+
 `Grau de assortatividade = -0.3687746079424212`
+
 ![Sudeste](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/plotsudeste.png)
 
 **Região Sul**
+
 `Grau de assortatividade = -0.40181381306857755`
+
 ![Sul](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/plotsul.png)
 
 **Região Centro-Oeste**
+
 `Grau de assortatividade = -0.3542839902086467`
+
 ![Centro-Oeste](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/plotcentro.png)
 
 ## **Componentes conectados:**
+Para essa análise agrupamos os aeroportos por região e realizamos uma contagem de todos os aeroportos por 
+região, após isso realizamos outra contagem dos aeroportos conectados com um mesmo componente. Com essas contagens realizadas podemos
+saber a porcentagem de componentes conectados por região.
+
+**Quantidade de aeroportos por região**
+
+![Quantidade de aeroportos por região](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/contagem01.png)
+
+**Regiões que pertencem a um componente**
+
+![Regiões que pertencem a um componente](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/contagem02.png)
+
+**Porcentagens de componentes conectados por região**
+
+`Centro-Oeste: 98.88%`
+
+`Nordeste: 100.0%`
+
+`Norte: 98.44%`
+
+`Sudeste: 99.14%`
+
+`Sul: 100.0%`
 
 ## **Caminho mais curto:**
 
 ## **Coeficiente de clustering:**
+
+Esse coeficiente mede a aproximidade de um nó ou uma rede de uma topologia estrela. Quando o coeficiente é igual a 1, a rede possui uma
+topologia estrela onde todos os elementos estão conectados entre si.
 
 ## **Referências:**
 [Repositório da disciplina](https://github.com/ivanovitchm/datastructure)
