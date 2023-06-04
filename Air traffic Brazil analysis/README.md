@@ -84,6 +84,30 @@ saber a porcentagem de componentes conectados por região.
 Esse coeficiente mede a aproximidade de um nó ou uma rede de uma topologia estrela. Quando o coeficiente é igual a 1, a rede possui uma
 topologia estrela onde todos os elementos estão conectados entre si.
 
+**Brasil**
+
+`Média de agrupamento = 0.623050800236936`
+
+**Centro-Oeste:**
+
+`Média de agrupamento = 0.5979416718387066`
+
+**Nordeste:**
+
+`Média de agrupamento = 0.43807384418290285`
+
+**Norte:**
+
+`Média de agrupamento = 0.6159653188854737`
+
+**Sudeste:**
+
+`Média de agrupamento = 0.6186700538769274`
+
+**Sul:**
+
+`Média de agrupamento = 0.5979416718387066`
+
 ## **Referências:**
 [Repositório da disciplina](https://github.com/ivanovitchm/datastructure)
 
