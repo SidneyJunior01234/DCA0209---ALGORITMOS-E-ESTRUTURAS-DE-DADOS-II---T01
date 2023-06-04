@@ -11,7 +11,7 @@ Para esse estudo calculamos o coeficiente de assortatividade e com resultado des
 
 E por se aproximar de 1, é assortativa e foi gerado um gráfico para visualizar as conexões entre os aeroportos.
 
-
+[Gráfico 01](Air traffic Brazil analysis/imagens/plot01.png)
 
 ## **Análise bivariada:**
 
