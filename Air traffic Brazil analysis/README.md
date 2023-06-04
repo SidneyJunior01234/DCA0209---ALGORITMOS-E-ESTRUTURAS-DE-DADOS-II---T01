@@ -54,6 +54,8 @@ Essa análise é realizada utilizando a correlação com o grau dos nós em rela
 
 ![Centro-Oeste](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/plotcentro.png)
 
+Tivemos como resultado coesficientes negativos, representando que os aeroportos de uma região devem estar conectados a outros aeroportos de outras regiões.
+
 ## **Componentes conectados:**
 Para essa análise agrupamos os aeroportos por região e realizamos uma contagem de todos os aeroportos por 
 região, após isso realizamos outra contagem dos aeroportos conectados com um mesmo componente. Com essas contagens realizadas podemos
