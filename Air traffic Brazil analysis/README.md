@@ -2,6 +2,7 @@
 
 ## **Descrição:**
 O projeto tem como objetivo a análise do tráfego aério brasileiro e seus aeroportos, onde os relacionados à análise de redes devem ser aplicados.
+Onde as análises a serem aplicadas estão listadas a seguir.
 
 ## **Estudo sobre assortatividade:**
 
