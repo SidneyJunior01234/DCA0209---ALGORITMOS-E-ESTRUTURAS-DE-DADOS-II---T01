@@ -79,6 +79,39 @@ saber a porcentagem de componentes conectados por região.
 
 ## **Caminho mais curto:**
 
+Selecionamos aeroportos aleatórios da base de dados para realizar essa análise. Para cada região foi pego um aeroporto e realizada a rota que deveria cumprir. Abaixo temos 
+um exemplo do funcionamento do caminho mais curto:
+
+**Aeroportos**
+
+NORTE: SBCJ
+
+SUL: SSUM
+
+NORDESTE: SBFN
+
+CENTRO-OESTE: SWFE
+
+SUDESTE: SNJR
+
+**Rota: SBCJ -> SSUM -> SBFN -> SWFE -> SNJR**
+
+**Caminho mais curto entre as rotas**
+
+SBCJ -> SSUM (SBCJ -> SBCT -> SSUM)
+
+SSUM -> SBFN (SSUM -> SBCT -> SBFN)
+
+SBFN -> SWFE (SBFN -> SBAR -> SBCY -> SWFE)
+
+SWFE -> SNJR (SWFE -> SBCY -> SBBH -> SNJR)
+
+Rota completa: (SBCJ -> SBCT -> SSUM -> SBCT -> SBFN -> SBAR -> SBCY -> SWFE -> SBCY -> SBBH -> SNJR)
+
+Com essas informações foi possível gerar um gráfico contendo os aeroportos e as conexões entre eles.
+
+![Mapeamento de aeroportos](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/rota.png)
+
 ## **Coeficiente de clustering:**
 
 Esse coeficiente mede a aproximidade de um nó ou uma rede de uma topologia estrela. Quando o coeficiente é igual a 1, a rede possui uma
