@@ -3,8 +3,7 @@
 [Notebook do projeto](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/Projeto%202%20AED2.ipynb)
 
 ## **Descrição:**
-O projeto tem como objetivo a análise do tráfego aério brasileiro e seus aeroportos com os dados disponibilizados por [Alvaro](https://github.com/alvarofpp/dataset-flights-brazil), onde os relacionados à análise de redes devem ser aplicados.
-Onde as análises a serem aplicadas estão listadas a seguir.
+O projeto tem como objetivo a análise do tráfego aério brasileiro e seus aeroportos com os dados disponibilizados por [Alvaro](https://github.com/alvarofpp/dataset-flights-brazil). Nesse estudo devemos aplicar os conceitos ensinados na disciplina de **algoritmos e estrutura de dados II** os relacionados à análise dos dados e grafos disponibilizados, seguindo os requerimentos a seguir.
 
 ## **Estudo sobre assortatividade:**
 Para esse estudo calculamos o coeficiente de assortatividade e com resultado desse calculo podemos definir se a rede é assortativa ou não.
