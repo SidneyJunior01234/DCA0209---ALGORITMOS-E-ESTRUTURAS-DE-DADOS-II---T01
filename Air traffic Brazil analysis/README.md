@@ -148,4 +148,4 @@ topologia estrela onde todos os elementos estão conectados entre si.
 ## **Referências:**
 [Repositório da disciplina](https://github.com/ivanovitchm/datastructure)
 
-[dataset flights brazil](github.com/alvarofpp/dataset-flights-brazil)
+[dataset flights brazil](https://github.com/alvarofpp/dataset-flights-brazil)
