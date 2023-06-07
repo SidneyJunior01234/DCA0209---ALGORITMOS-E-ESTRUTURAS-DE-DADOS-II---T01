@@ -10,7 +10,7 @@ Para esse estudo calculamos o coeficiente de assortatividade e com resultado des
 
 `Coeficiente de assortatividade = 0.36728130173582757`
 
-E por se aproximar de 1, é assortativa e foi gerado um gráfico para visualizar as conexões entre os aeroportos.
+E por se aproximar de 1, é assortativa onde os semelhantes tendem a se agruparem e foi gerado um gráfico para visualizar as conexões entre os aeroportos.
 
 ![Conexões aeroportos](https://github.com/SidneyJunior01234/DCA0209---ALGORITMOS-E-ESTRUTURAS-DE-DADOS-II---T01/blob/main/Air%20traffic%20Brazil%20analysis/imagens/plot01.png)
 
